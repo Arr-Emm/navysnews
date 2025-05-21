@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-family: "Imperial Script", cursive;
+    font-size: xx-large;
+}
+nav {
+    background-color: grey;
+}
+.carouseltitle {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.d-block.w-100 {
+    border-radius: 10px;
+}
